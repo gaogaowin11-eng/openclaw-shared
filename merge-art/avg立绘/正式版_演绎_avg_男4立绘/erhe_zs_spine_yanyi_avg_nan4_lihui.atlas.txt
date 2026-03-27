@@ -1,0 +1,657 @@
+
+erhe_zs_spine_yanyi_avg_nan4_lihui.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+erhe_zs_spine_yanyi_avg_nan4_baiyan
+  rotate: false
+  xy: 1909, 1730
+  size: 133, 142
+  orig: 133, 142
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_biyan
+  rotate: false
+  xy: 420, 2004
+  size: 87, 21
+  orig: 87, 21
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_chaofen
+  rotate: true
+  xy: 639, 1667
+  size: 133, 142
+  orig: 133, 142
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_datui_l
+  rotate: true
+  xy: 2, 1373
+  size: 155, 472
+  orig: 155, 472
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_datui_r
+  rotate: true
+  xy: 1089, 1098
+  size: 201, 469
+  orig: 201, 469
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_daxiao
+  rotate: true
+  xy: 783, 1656
+  size: 133, 142
+  orig: 133, 142
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_haixiu
+  rotate: true
+  xy: 927, 1656
+  size: 133, 142
+  orig: 133, 142
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_haixiu-1
+  rotate: true
+  xy: 1071, 1646
+  size: 133, 142
+  orig: 133, 142
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_jiao_l
+  rotate: false
+  xy: 120, 1847
+  size: 170, 110
+  orig: 170, 110
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_jiao_r
+  rotate: true
+  xy: 956, 1905
+  size: 93, 146
+  orig: 93, 146
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_lian
+  rotate: true
+  xy: 2, 1568
+  size: 150, 192
+  orig: 150, 192
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_meimao_l
+  rotate: false
+  xy: 956, 2000
+  size: 48, 25
+  orig: 48, 25
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_meimao_r
+  rotate: false
+  xy: 1006, 2000
+  size: 59, 25
+  orig: 59, 25
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_muzhi_l
+  rotate: false
+  xy: 1168, 1996
+  size: 60, 29
+  orig: 60, 29
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_qugan
+  rotate: true
+  xy: 2, 509
+  size: 405, 679
+  orig: 405, 679
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_shengzi1
+  rotate: false
+  xy: 201, 2010
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_shengzi1yinying
+  rotate: false
+  xy: 321, 2007
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_shengzi2
+  rotate: true
+  xy: 1523, 1991
+  size: 34, 59
+  orig: 34, 59
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_shengzi2yinying
+  rotate: true
+  xy: 1343, 1995
+  size: 30, 57
+  orig: 30, 57
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_shengzi3
+  rotate: true
+  xy: 1867, 1983
+  size: 42, 62
+  orig: 42, 62
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_shengzi3yinying
+  rotate: true
+  xy: 1584, 1989
+  size: 36, 62
+  orig: 36, 62
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_shengzi4
+  rotate: true
+  xy: 72, 2018
+  size: 7, 99
+  orig: 7, 99
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_shengzi4yinying
+  rotate: true
+  xy: 2, 2019
+  size: 6, 68
+  orig: 6, 68
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_shengzi5
+  rotate: true
+  xy: 509, 2004
+  size: 21, 100
+  orig: 21, 100
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_shengzi5yinying
+  rotate: true
+  xy: 221, 2008
+  size: 17, 98
+  orig: 17, 98
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_shenqi
+  rotate: true
+  xy: 1215, 1646
+  size: 133, 142
+  orig: 133, 142
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_shou_l
+  rotate: false
+  xy: 2, 1851
+  size: 116, 116
+  orig: 116, 116
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_shou_r
+  rotate: true
+  xy: 1819, 1874
+  size: 103, 155
+  orig: 103, 155
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_shoubi_l
+  rotate: true
+  xy: 1577, 1889
+  size: 95, 240
+  orig: 95, 240
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_shoubi_r
+  rotate: true
+  xy: 1015, 1326
+  size: 172, 294
+  orig: 172, 294
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_tiaomei
+  rotate: true
+  xy: 1359, 1646
+  size: 133, 142
+  orig: 133, 142
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_toufa
+  rotate: true
+  xy: 1876, 1549
+  size: 179, 154
+  orig: 179, 154
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_toufa1
+  rotate: true
+  xy: 1931, 1979
+  size: 46, 54
+  orig: 46, 54
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_toufa10
+  rotate: true
+  xy: 1819, 1984
+  size: 41, 46
+  orig: 41, 46
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_toufa11
+  rotate: false
+  xy: 1067, 2000
+  size: 36, 25
+  orig: 36, 25
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_toufa2
+  rotate: true
+  xy: 347, 2006
+  size: 19, 36
+  orig: 19, 36
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_toufa3
+  rotate: false
+  xy: 1230, 1996
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_toufa4
+  rotate: false
+  xy: 363, 1935
+  size: 89, 67
+  orig: 89, 67
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_toufa5
+  rotate: false
+  xy: 1648, 1989
+  size: 55, 36
+  orig: 55, 36
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_toufa6
+  rotate: true
+  xy: 1402, 1993
+  size: 32, 49
+  orig: 32, 49
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_toufa7
+  rotate: true
+  xy: 385, 2005
+  size: 20, 33
+  orig: 20, 33
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_toufa8
+  rotate: true
+  xy: 1705, 1986
+  size: 39, 54
+  orig: 39, 54
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_toufa9
+  rotate: true
+  xy: 1761, 1986
+  size: 39, 56
+  orig: 39, 56
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_weixiao
+  rotate: true
+  xy: 1503, 1636
+  size: 133, 142
+  orig: 133, 142
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_xiaobi_r
+  rotate: true
+  xy: 693, 1910
+  size: 90, 261
+  orig: 90, 261
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_xiaotui_l
+  rotate: true
+  xy: 1159, 1781
+  size: 110, 359
+  orig: 110, 359
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_xiaotui_r
+  rotate: true
+  xy: 1036, 1500
+  size: 144, 398
+  orig: 144, 398
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_yachi_s
+  rotate: false
+  xy: 666, 2003
+  size: 49, 22
+  orig: 49, 22
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_yachi_x
+  rotate: false
+  xy: 611, 2004
+  size: 53, 21
+  orig: 53, 21
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_yan_l
+  rotate: false
+  xy: 173, 2015
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_yan_r
+  rotate: false
+  xy: 187, 2014
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_yanbai_l
+  rotate: false
+  xy: 1105, 1997
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_yanbai_r
+  rotate: false
+  xy: 1137, 1997
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_yifu1_12
+  rotate: true
+  xy: 610, 18
+  size: 453, 521
+  orig: 453, 521
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_yifu1_12_d
+  rotate: false
+  xy: 476, 1349
+  size: 285, 169
+  orig: 285, 169
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_yifu1_kuyao_q
+  rotate: false
+  xy: 2, 1188
+  size: 298, 183
+  orig: 298, 183
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_yifu1_shoutao_r
+  rotate: true
+  xy: 292, 1823
+  size: 110, 187
+  orig: 110, 187
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_yifu1_xiaotuiku_l
+  rotate: true
+  xy: 481, 1802
+  size: 106, 380
+  orig: 106, 380
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_yifu1_xiaotuiku_r
+  rotate: true
+  xy: 624, 1520
+  size: 134, 410
+  orig: 134, 410
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_yifu1_xie_l
+  rotate: false
+  xy: 196, 1541
+  size: 189, 150
+  orig: 189, 150
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_yifu1_xie_r
+  rotate: true
+  xy: 1520, 1771
+  size: 116, 168
+  orig: 116, 168
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_yifu1_youdabi
+  rotate: true
+  xy: 1436, 1475
+  size: 159, 201
+  orig: 159, 201
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_yifu1_youkutui
+  rotate: true
+  xy: 577, 1143
+  size: 181, 510
+  orig: 181, 510
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_yifu1_youxiaobi
+  rotate: true
+  xy: 1104, 1899
+  size: 94, 255
+  orig: 94, 255
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_yifu1_youxiu
+  rotate: true
+  xy: 2, 1720
+  size: 125, 207
+  orig: 125, 207
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_yifu1_zuodabi
+  rotate: true
+  xy: 413, 1670
+  size: 130, 224
+  orig: 130, 224
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_yifu1_zuokutui
+  rotate: true
+  xy: 319, 916
+  size: 225, 467
+  orig: 225, 467
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_yifu1_zuoxiaobi
+  rotate: true
+  xy: 1361, 1893
+  size: 96, 214
+  orig: 96, 214
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_yifu1_zuoxiu
+  rotate: true
+  xy: 1639, 1431
+  size: 177, 224
+  orig: 177, 224
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_yifu1_zuoxiu_d
+  rotate: false
+  xy: 545, 1912
+  size: 146, 89
+  orig: 146, 89
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_yifu2_kudai_l
+  rotate: true
+  xy: 717, 2002
+  size: 23, 237
+  orig: 23, 237
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_yifu2_kudai_r
+  rotate: true
+  xy: 135, 1959
+  size: 45, 226
+  orig: 45, 226
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_yifu2_kutui_l
+  rotate: true
+  xy: 1594, 1222
+  size: 207, 242
+  orig: 207, 242
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_yifu2_kutui_r
+  rotate: false
+  xy: 1838, 1019
+  size: 208, 248
+  orig: 208, 248
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_yifu2_kuyao
+  rotate: false
+  xy: 2, 936
+  size: 315, 215
+  orig: 315, 215
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_yifu2_yifu_l
+  rotate: true
+  xy: 1120, 473
+  size: 432, 709
+  orig: 432, 709
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_yifu2_yifu_r
+  rotate: true
+  xy: 1133, 2
+  size: 469, 753
+  orig: 469, 753
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_yifu2_yixiu_l
+  rotate: true
+  xy: 1690, 1749
+  size: 123, 217
+  orig: 123, 217
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_yifu2_yixiu_r
+  rotate: true
+  xy: 211, 1693
+  size: 128, 200
+  orig: 128, 200
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_yifu4_neiku
+  rotate: true
+  xy: 1865, 1269
+  size: 278, 173
+  orig: 278, 173
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_yifu5_kuzi
+  rotate: false
+  xy: 788, 848
+  size: 330, 248
+  orig: 330, 248
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_yifu5_mojing
+  rotate: false
+  xy: 2, 1969
+  size: 131, 47
+  orig: 131, 47
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_yifu5_ydabi
+  rotate: true
+  xy: 1647, 1610
+  size: 137, 227
+  orig: 137, 227
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_yifu5_ydatui
+  rotate: true
+  xy: 1311, 1301
+  size: 172, 281
+  orig: 172, 281
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_yifu5_yifu
+  rotate: true
+  xy: 2, 66
+  size: 441, 606
+  orig: 441, 606
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_yifu5_yxie
+  rotate: true
+  xy: 763, 1334
+  size: 184, 250
+  orig: 184, 250
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_yifu5_zdabi
+  rotate: true
+  xy: 387, 1530
+  size: 138, 235
+  orig: 138, 235
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_yifu5_zdatui
+  rotate: false
+  xy: 1560, 907
+  size: 231, 313
+  orig: 231, 313
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_yifu5_zxie
+  rotate: true
+  xy: 863, 1791
+  size: 106, 294
+  orig: 106, 294
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_yinying_l
+  rotate: true
+  xy: 454, 1935
+  size: 67, 89
+  orig: 67, 89
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_youbi_l
+  rotate: true
+  xy: 302, 1153
+  size: 194, 273
+  orig: 194, 273
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_zuichun_s
+  rotate: false
+  xy: 1264, 1996
+  size: 77, 29
+  orig: 77, 29
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_nan4_zuichun_x
+  rotate: false
+  xy: 1453, 1993
+  size: 68, 32
+  orig: 68, 32
+  offset: 0, 0
+  index: -1

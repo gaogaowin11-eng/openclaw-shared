@@ -1,0 +1,202 @@
+
+erhe_zs_spine_yanyi_avg_npc17_lihui.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+erhe_zs_spine_yanyi_avg_npc17_lihui_qugan
+  rotate: false
+  xy: 2, 343
+  size: 382, 679
+  orig: 382, 679
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_npc17_lihui_tou
+  rotate: false
+  xy: 1306, 645
+  size: 146, 207
+  orig: 146, 207
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_npc17_lihui_weixiao
+  rotate: false
+  xy: 870, 353
+  size: 110, 120
+  orig: 110, 120
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_npc17_lihui_ydabi
+  rotate: false
+  xy: 332, 44
+  size: 144, 297
+  orig: 144, 297
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_npc17_lihui_ydatui
+  rotate: false
+  xy: 977, 494
+  size: 161, 528
+  orig: 161, 528
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_npc17_lihui_yifu1_koudai
+  rotate: true
+  xy: 960, 3
+  size: 348, 240
+  orig: 348, 240
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_npc17_lihui_yifu1_kudai1
+  rotate: true
+  xy: 746, 6
+  size: 53, 137
+  orig: 53, 137
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_npc17_lihui_yifu1_kudai2
+  rotate: true
+  xy: 624, 3
+  size: 56, 120
+  orig: 56, 120
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_npc17_lihui_yifu1_kuzi
+  rotate: true
+  xy: 1202, 26
+  size: 348, 240
+  orig: 348, 240
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_npc17_lihui_yifu1_txue
+  rotate: false
+  xy: 386, 343
+  size: 382, 679
+  orig: 382, 679
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_npc17_lihui_yifu1_ykutui
+  rotate: false
+  xy: 1454, 649
+  size: 185, 203
+  orig: 185, 203
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_npc17_lihui_yifu1_yxiezi
+  rotate: false
+  xy: 1140, 522
+  size: 207, 97
+  orig: 207, 97
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_npc17_lihui_yifu1_yxiuzi
+  rotate: false
+  xy: 478, 44
+  size: 144, 297
+  orig: 144, 297
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_npc17_lihui_yifu1_zkutui
+  rotate: true
+  xy: 1140, 621
+  size: 240, 164
+  orig: 240, 164
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_npc17_lihui_yifu1_zxiezi
+  rotate: true
+  xy: 770, 348
+  size: 125, 98
+  orig: 125, 98
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_npc17_lihui_yifu1_zxiuzi
+  rotate: false
+  xy: 2, 14
+  size: 163, 327
+  orig: 163, 327
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_npc17_lihui_yjiaozhang
+  rotate: false
+  xy: 1292, 875
+  size: 190, 147
+  orig: 190, 147
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_npc17_lihui_yp1
+  rotate: false
+  xy: 360, 13
+  size: 51, 29
+  orig: 51, 29
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_npc17_lihui_yp2
+  rotate: true
+  xy: 332, 2
+  size: 40, 26
+  orig: 40, 26
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_npc17_lihui_yshouzhang
+  rotate: false
+  xy: 1484, 854
+  size: 77, 168
+  orig: 77, 168
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_npc17_lihui_yxiaobi
+  rotate: false
+  xy: 624, 61
+  size: 133, 280
+  orig: 133, 280
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_npc17_lihui_yxiaotui
+  rotate: true
+  xy: 1139, 376
+  size: 116, 422
+  orig: 116, 422
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_npc17_lihui_zdabi
+  rotate: false
+  xy: 167, 14
+  size: 163, 327
+  orig: 163, 327
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_npc17_lihui_zdatui
+  rotate: false
+  xy: 770, 475
+  size: 205, 547
+  orig: 205, 547
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_npc17_lihui_zjiaozhang
+  rotate: true
+  xy: 982, 375
+  size: 117, 155
+  orig: 117, 155
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_npc17_lihui_zshouzhang
+  rotate: false
+  xy: 1140, 871
+  size: 150, 151
+  orig: 150, 151
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_npc17_lihui_zxiaobi
+  rotate: false
+  xy: 759, 76
+  size: 199, 265
+  orig: 199, 265
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_npc17_lihui_zxiaotui
+  rotate: true
+  xy: 1563, 863
+  size: 159, 430
+  orig: 159, 430
+  offset: 0, 0
+  index: -1

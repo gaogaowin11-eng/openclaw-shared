@@ -1,0 +1,258 @@
+
+erhe_zs_spine_yanyi_avg_npc20_lihui.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+erhe_zs_spine_yanyi_avg_npc18_lihui_shenti
+  rotate: false
+  xy: 2, 338
+  size: 454, 673
+  orig: 454, 673
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_npc18_lihui_tou
+  rotate: false
+  xy: 1881, 639
+  size: 148, 196
+  orig: 148, 196
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_npc18_lihui_toufa3
+  rotate: true
+  xy: 1348, 286
+  size: 166, 138
+  orig: 166, 138
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_npc18_lihui_yanpi1
+  rotate: true
+  xy: 679, 366
+  size: 40, 23
+  orig: 40, 23
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_npc18_lihui_yanpi2
+  rotate: false
+  xy: 679, 342
+  size: 41, 22
+  orig: 41, 22
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_npc18_lihui_ydabi
+  rotate: true
+  xy: 1503, 912
+  size: 99, 257
+  orig: 99, 257
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_npc18_lihui_ydatui
+  rotate: true
+  xy: 947, 238
+  size: 148, 399
+  orig: 148, 399
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_npc18_lihui_yjiao
+  rotate: true
+  xy: 1917, 837
+  size: 174, 121
+  orig: 174, 121
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_npc18_lihui_yjiaozhang
+  rotate: true
+  xy: 1284, 155
+  size: 81, 148
+  orig: 81, 148
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_npc18_lihui_yxiaobi
+  rotate: true
+  xy: 1265, 454
+  size: 111, 265
+  orig: 111, 265
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_npc18_lihui_yxiaotui
+  rotate: true
+  xy: 1092, 904
+  size: 107, 409
+  orig: 107, 409
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_npc18_lihui_zdabi
+  rotate: true
+  xy: 1263, 659
+  size: 122, 260
+  orig: 122, 260
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_npc18_lihui_zdatui
+  rotate: true
+  xy: 839, 550
+  size: 164, 422
+  orig: 164, 422
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_npc18_lihui_zjiao
+  rotate: true
+  xy: 1762, 915
+  size: 96, 153
+  orig: 96, 153
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_npc18_lihui_zshouzhang
+  rotate: false
+  xy: 1751, 644
+  size: 102, 163
+  orig: 102, 163
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_npc18_lihui_zxiaobi
+  rotate: true
+  xy: 1263, 567
+  size: 90, 257
+  orig: 90, 257
+  offset: 0, 0
+  index: -1
+erhe_zs_spine_yanyi_avg_npc18_lihui_zxiaotui
+  rotate: true
+  xy: 1050, 23
+  size: 128, 437
+  orig: 128, 437
+  offset: 0, 0
+  index: -1
+erhe_zs_yanyi_avg_npc20_lihui_bq_weixiao
+  rotate: false
+  xy: 1618, 629
+  size: 86, 68
+  orig: 86, 68
+  offset: 0, 0
+  index: -1
+erhe_zs_yanyi_avg_npc20_lihui_yifu1_cs1_1
+  rotate: true
+  xy: 514, 163
+  size: 177, 431
+  orig: 177, 431
+  offset: 0, 0
+  index: -1
+erhe_zs_yanyi_avg_npc20_lihui_yifu1_cs1_2
+  rotate: false
+  xy: 580, 354
+  size: 97, 52
+  orig: 97, 52
+  offset: 0, 0
+  index: -1
+erhe_zs_yanyi_avg_npc20_lihui_yifu1_kuzi
+  rotate: true
+  xy: 839, 716
+  size: 295, 251
+  orig: 295, 251
+  offset: 0, 0
+  index: -1
+erhe_zs_yanyi_avg_npc20_lihui_yifu1_xianglian
+  rotate: false
+  xy: 1522, 574
+  size: 94, 83
+  orig: 94, 83
+  offset: 0, 0
+  index: -1
+erhe_zs_yanyi_avg_npc20_lihui_yifu1_xz1_1
+  rotate: false
+  xy: 458, 408
+  size: 379, 603
+  orig: 379, 603
+  offset: 0, 0
+  index: -1
+erhe_zs_yanyi_avg_npc20_lihui_yifu1_xz1_2
+  rotate: false
+  xy: 458, 342
+  size: 120, 64
+  orig: 120, 64
+  offset: 0, 0
+  index: -1
+erhe_zs_yanyi_avg_npc20_lihui_yifu1_ydb
+  rotate: true
+  xy: 947, 153
+  size: 83, 335
+  orig: 83, 335
+  offset: 0, 0
+  index: -1
+erhe_zs_yanyi_avg_npc20_lihui_yifu1_ydt
+  rotate: true
+  xy: 839, 388
+  size: 160, 424
+  orig: 160, 424
+  offset: 0, 0
+  index: -1
+erhe_zs_yanyi_avg_npc20_lihui_yifu1_yxb1_1
+  rotate: true
+  xy: 1422, 797
+  size: 105, 283
+  orig: 105, 283
+  offset: 0, 0
+  index: -1
+erhe_zs_yanyi_avg_npc20_lihui_yifu1_yxb1_2
+  rotate: false
+  xy: 580, 141
+  size: 55, 20
+  orig: 55, 20
+  offset: 0, 0
+  index: -1
+erhe_zs_yanyi_avg_npc20_lihui_yifu1_yxiezi
+  rotate: true
+  xy: 1706, 442
+  size: 200, 137
+  orig: 200, 137
+  offset: 0, 0
+  index: -1
+erhe_zs_yanyi_avg_npc20_lihui_yifu1_yxt
+  rotate: true
+  xy: 2, 2
+  size: 125, 577
+  orig: 125, 577
+  offset: 0, 0
+  index: -1
+erhe_zs_yanyi_avg_npc20_lihui_yifu1_zdb
+  rotate: true
+  xy: 1092, 783
+  size: 119, 328
+  orig: 119, 328
+  offset: 0, 0
+  index: -1
+erhe_zs_yanyi_avg_npc20_lihui_yifu1_zdt
+  rotate: true
+  xy: 2, 129
+  size: 207, 510
+  orig: 207, 510
+  offset: 0, 0
+  index: -1
+erhe_zs_yanyi_avg_npc20_lihui_yifu1_zxb1_1
+  rotate: true
+  xy: 1525, 699
+  size: 96, 224
+  orig: 96, 224
+  offset: 0, 0
+  index: -1
+erhe_zs_yanyi_avg_npc20_lihui_yifu1_zxb1_2
+  rotate: false
+  xy: 514, 136
+  size: 64, 25
+  orig: 64, 25
+  offset: 0, 0
+  index: -1
+erhe_zs_yanyi_avg_npc20_lihui_yifu1_zxiezi
+  rotate: true
+  xy: 1707, 809
+  size: 101, 172
+  orig: 101, 172
+  offset: 0, 0
+  index: -1
+erhe_zs_yanyi_avg_npc20_lihui_yifu1_zxt
+  rotate: true
+  xy: 581, 6
+  size: 133, 467
+  orig: 133, 467
+  offset: 0, 0
+  index: -1
